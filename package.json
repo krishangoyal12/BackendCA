@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "backendca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishangoyal12/BackendCA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/krishangoyal12/BackendCA/issues"
+  },
+  "homepage": "https://github.com/krishangoyal12/BackendCA#readme"
+}
